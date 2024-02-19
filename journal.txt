@@ -1,0 +1,3 @@
+--->Jour 0
+	Aujourd'hui on a defini un theme pour le jeux et commancer a lister les taches sur trello.
+	On a egalement creer ce que tu lis, c'est a dire notre journal de bord d'equipe
