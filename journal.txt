@@ -1,3 +1,15 @@
+JOURNAL DE BORD
+
+
 --->Jour 0
-	Aujourd'hui on a defini un theme pour le jeux et commancer a lister les taches sur trello.
-	On a egalement creer ce que tu lis, c'est a dire notre journal de bord d'equipe
+
+	Aujourd'hui on a défini un thème pour le jeux et commencé à lister les tâches sur 		trello.
+	On a également crée ce que tu lis, c'est a dire notre journal de bord d'équipe.
+
+
+--->Jour 1
+	Aujourd'hui, nous nous sommes répartis les tâches à effectuer et mis à jour notre 		Trello. 
+	Nous avons découvert PICO-8 via des tutos sur Youtube. 
+	Serena a commencé à désigner la map. Difficile d'appréhender le point de vue de la 		caméra pour réaliser la map d'un jeu de plateforme. 
+	Nous avons réalisé l'importance de mettre des commentaires dans notre code sur Pico-8. 		Hidouen et Maud ont commencé à coder des actions de notre Sprite, réaliser un son et 		compris comment s'articulent les fonctions UNIT, UPDATE et DRAW.
+	
