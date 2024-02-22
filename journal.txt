@@ -21,3 +21,11 @@
 	Maud a cree une fonction collision et une fonction explosion, ainsi que l'affichage d'un score,
 	la creation d'un bouton pour reset la partie et d'un super ecran "GAME OVER".
 	Hidouen a aussi cree une fonction explosion, ainsi qu'un fond mobile a reutiliser pour faire les nuages dans notre map.
+
+---->Jour 3 (Semaine 1-Jeudi)
+	Aujourd'hui nous avons plutôt bien avancé (petite victoire)
+	Maud a travaillé sur : la  gravité, le saut du Sprite, sur les déplacements des personnages et sur les balles.
+	Hidouen a travaillé sur la caméra, sur la Map et sur les déplacements
+	Serena a travaillé sur la map 
+	Nous avons encore du travail sur la map, les personnages(personnages principaux, ennemis),  les sons et bien d'autres mais nous sommes déterminés à y arriver tout en nous amusants.
+	Nous espérons que Vanessa sera de la partie ce lundi afin d'avancer ensemble.
