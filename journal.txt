@@ -1,13 +1,13 @@
 										JOURNAL DE BORD
 
 
---->Jour 0
+--->Jour 0 (lundi - semaine 1)
 
 	Aujourd'hui on a défini un thème pour le jeux et commencé à lister les tâches sur trello.
 	On a également crée ce que tu lis, c'est a dire notre journal de bord d'équipe.
 
 
---->Jour 1
+--->Jour 1 (mardi - semaine 1)
 	Aujourd'hui, nous nous sommes répartis les tâches à effectuer et mis à jour notre Trello. 
 	Nous avons découvert PICO-8 via des tutos sur Youtube. 
 	Serena a commencé à désigner la map. Difficile d'appréhender le point de vue de la caméra pour réaliser la map d'un jeu de plateforme. 
@@ -16,16 +16,25 @@
 	UNIT, UPDATE et DRAW.
 
 
---->Jour 2 (mercredi semaine1)
-	Aujourd'hui, nous n'etions que 2 (Maud et Hidouen). Nous avons chacun continue a suivre les tutos.
-	Maud a cree une fonction collision et une fonction explosion, ainsi que l'affichage d'un score,
-	la creation d'un bouton pour reset la partie et d'un super ecran "GAME OVER".
-	Hidouen a aussi cree une fonction explosion, ainsi qu'un fond mobile a reutiliser pour faire les nuages dans notre map.
+--->Jour 2 (mercredi - semaine 1)
+	Aujourd'hui, nous n'étions que 2 (Maud et Hidouen). Nous avons chacun continué à suivre les tutos.
+	Maud a crée une fonction collision et une fonction explosion, ainsi que l'affichage d'un score,
+	la création d'un bouton pour reset la partie et d'un super écran "GAME OVER".
+	Hidouen a aussi crée une fonction explosion, ainsi qu'un fond mobile a réutiliser pour faire les nuages dans notre map.
 
----->Jour 3 (Semaine 1-Jeudi)
+---->Jour 3 (jeudi - semaine 1)
 	Aujourd'hui nous avons plutôt bien avancé (petite victoire)
-	Maud a travaillé sur : la  gravité, le saut du Sprite, sur les déplacements des personnages et sur les balles.
-	Hidouen a travaillé sur la caméra, sur la Map et sur les déplacements
-	Serena a travaillé sur la map 
-	Nous avons encore du travail sur la map, les personnages(personnages principaux, ennemis),  les sons et bien d'autres mais nous sommes déterminés à y arriver tout en nous amusants.
+	Maud a travaillé sur la  gravité, le saut du Sprite, les déplacements des personnages et les balles.
+	Hidouen a travaillé sur la caméra, la Map et les déplacements.
+	Serena a travaillé sur la map.
+	Nous avons encore du travail sur la map, les personnages(personnages principaux, ennemis),  les sons et bien d'autres choses mais nous sommes déterminés à y arriver tout en nous amusants.
 	Nous espérons que Vanessa sera de la partie ce lundi afin d'avancer ensemble.
+
+---->Jour 4 (lundi - semaine 2)
+	Aujourd'hui nous avons refait le point sur notre jeu et l'ensemble des fonctionnalités déjà crée.
+	Hidouen a fait un résumé de l'ensemble des fonctions de notre jeu et la logique du code avec Pico-8.
+	Il a ajouté, avec l'aide de Maud, la collision à l'extrémité droite de la map et le suivis de la caméra.
+	Il a fait le flip du personnage principal.
+	On a redessiné notre personnage principal avec plusieurs positions pour créer un effet de mouvement quand elle marche.
+	Serena a inclus le code pour réaliser le mouvement de marche lorsque Daisy marche.
+	Maud a continué à dessiner la map et crée d'autres sprites.
