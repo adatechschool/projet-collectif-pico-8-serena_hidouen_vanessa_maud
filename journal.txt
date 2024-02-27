@@ -38,3 +38,10 @@
 	On a redessiné notre personnage principal avec plusieurs positions pour créer un effet de mouvement quand elle marche.
 	Serena a inclus le code pour réaliser le mouvement de marche lorsque Daisy marche.
 	Maud a continué à dessiner la map et crée d'autres sprites.
+
+---->Jour 5 (Mardi -semaine 2)
+	Aujourd'dui nous avons plutôt bien avancé sur le jeu et une bonne partie de l'ensemble des fonctionnalités a été faite
+	Hidouen a fait les collisions des differentes montagnes et differents murs
+	Maud a fait le son(musique) et dessiner la barre où sort les énnemies
+	Serena et Hidouen ont dessiné le mechant(la tortue) et ensuite faits les déplacements plus collisions.
+	Maud et Serena ont déssiné les fleurs qui s'ouvrent et se ferment sur la map. 
