@@ -27,7 +27,8 @@
 	Maud a travaillé sur la  gravité, le saut du Sprite, les déplacements des personnages et les balles.
 	Hidouen a travaillé sur la caméra, la Map et les déplacements.
 	Serena a travaillé sur la map.
-	Nous avons encore du travail sur la map, les personnages(personnages principaux, ennemis),  les sons et bien d'autres choses mais nous sommes déterminés à y arriver tout en nous amusants.
+	Nous avons encore du travail sur la map, les personnages(personnages principaux, ennemis),
+	les sons et bien d'autres choses mais nous sommes déterminés à y arriver tout en nous amusants.
 	Nous espérons que Vanessa sera de la partie ce lundi afin d'avancer ensemble.
 
 ---->Jour 4 (lundi - semaine 2)
@@ -42,9 +43,13 @@
 ---->Jour 5 (Mardi -semaine 2)
 	Aujourd'hui nous avons plutôt bien avancé sur le jeu et une bonne partie de l'ensemble des fonctionnalités a été faite.
 	Hidouen a fait les collisions des différentes montagnes et différents murs
-	Maud a fait le son(musique) et dessiner la barre où sort les ennemies
+	Maud a fait le son(musique) et dessiner le tube d'où sortent les ennemies
 	Serena et Hidouen ont dessiné le méchant(la tortue) et ensuite faits les déplacements plus collisions.
 	Maud et Serena ont dessiné les fleurs qui s'ouvrent et se ferment sur la map. 
 
 ---->Jour 6 (Mercredi -semaine 2)
-	Aujourd'hui nous avons apporté quelques améliorations au jeu : intégration de la musique du jeu, un son pour le saut, un son pour le game-over du joueur, un écran-titre avant de commencer le jeu, et une page de fin si 	le joueur a gagné. Nous avons dû arrêter d'ajouter des fonctionnalités au jeu pour commencer à préparer la démo. Nous avons debriefé sur la façon de présenter la démo du jeu demain. Nous avons beaucoup d'idées mais 		rien n'est encore finalisé pour demain. Nous n'avons pas crée de support de présentation. Le temps nous manque cet après-midi malheureusement. Daisy'lée.
+	Aujourd'hui nous avons apporté quelques améliorations au jeu : intégration de la musique du jeu, un son pour le saut,
+	un son pour le game-over du joueur, un écran-titre avant de commencer le jeu, et une page de fin si le joueur a gagné.
+	Nous avons dû arrêter d'ajouter des fonctionnalités au jeu pour commencer à préparer la démo.
+	Nous avons debriefé sur la façon de présenter la démo du jeu demain. Nous avons beaucoup d'idées mais rien n'est encore finalisé
+	pour demain. Nous n'avons pas crée de support de présentation. Le temps nous manque cet après-midi malheureusement. Daisy'lée.
